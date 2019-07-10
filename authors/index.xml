@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Tatiana Manrique</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Tatiana Manrique</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt; 
+Doctora en Control y Automatización de la Universidad de Lorraine (Nancy, Francia). Magíster en Ingeniería Electrónica de la Pontificia Universidad Javeriana (Bogotá, Colombia) e Ingeniera Electrónica de la misma universidad. Con experiencia en el diseño e implementación de técnicas de control y automatización, en particular de algoritmos de Control Óptimo y Control Robusto para sistemas lineales y no lineales (Sistemas Lineales con Parámetro Variable (LPV), Sistemas conmutados, …) aplicados a diferentes dominios industriales como convertidores de potencia, vehículos eléctricos, entre otros. 
+&lt;/div&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt; 
+Clasificada como Investigadora Junior según la última convocatoria de COLCIENCIAS (No. 781 de 2017). Con experiencia postdoctoral en investigación en la Pontifica Universidad Javeriana en el área de energías renovables. Con interés investigativo y participación en proyectos en el campo de la ingeniería de control, automatización industrial, electrónica de potencia y energías renovables.  Con experiencia docente tiempo completo de más de tres años en el área de Control y Automatización Industrial, y experiencia administrativa como coordinadora curricular del área de Control y Automatización Industrial en un programa de Ingeniería Electrónica.
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
